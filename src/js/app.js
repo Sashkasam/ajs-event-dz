@@ -1,9 +1,8 @@
 import { Playfield } from "./Playfield.js";
 import { PlayScore } from "./PlayScore.js";
 import { Goblin } from "./Goblin.js";
-import { Game } from "./game.js";
+import { Game } from "./Game.js";
 
-console.log("test");
 const playscore = new PlayScore();
 playscore.createPlayScore();
 
