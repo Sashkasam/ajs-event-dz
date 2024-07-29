@@ -1,0 +1,30 @@
+body {
+    color: #999;
+    cursor: url('../img/hammer.png'), pointer;
+    
+    
+}
+
+.field {
+    width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+.cell_field {
+    border: 1px solid black;
+    height: 120px;
+    width: 120px;
+}
+
+
+.game_card {
+    width: 600px;
+    margin-bottom: 0;
+  }
+
+  .game_status {
+    margin-bottom: 20px;
+  }
