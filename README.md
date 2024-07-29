@@ -1,5 +1,5 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/2nf8tn1mmga3ywhr?svg=true)](https://ci.appveyor.com/project/Sashkasam/ajs-event-dz)
-![CI](https://github.com/Sashkasam/ahj-event-dz/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/Sashkasam/ajs-event-dz/actions/workflows/web.yml/badge.svg)
 # Домашнее задание к занятию "3.Обработка событий"
 
 Правила сдачи задания:

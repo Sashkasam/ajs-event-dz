@@ -1,10 +1,12 @@
+import imgMy from "../../src/img/goblin.png";
+
 export class Goblin {
   constructor() {}
   createGoblin() {
     document.addEventListener("DOMContentLoaded", () => {
       this.imageDiv = document.createElement("div");
       const img = document.createElement("img");
-      img.src = "img/goblin.png";
+      img.src = imgMy;
       img.alt = "Goblin image";
       this.imageDiv.appendChild(img);
     });
